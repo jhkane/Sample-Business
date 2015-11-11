@@ -17,5 +17,21 @@ footer {
 
 h1 {
 	text-align: center;
-
+}
+span {
+	font-weight: bold;
+}
+.contact {
+	text-align: center;
+	font-size: 17px;
+}
+.thumbnail {
+	opacity: .9;
+}
+.thumbnail:hover {
+	opacity: 1;
+	background-color: black;
+}
+.body3 {
+	background-image: url(http://www.traceyelliotreep.com/wp-content/uploads/2013/08/West-Coast-Ireland.jpg)
 }
